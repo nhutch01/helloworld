@@ -61,6 +61,12 @@ public class IngredientGroupDAO implements ProcessXMLFileData{
     public String getAttributeValueFromElement(Element element, String tagName){
         return null;
     }
+
+    /* build the ingredient group object from the parsed XML data */
+    private IngredientGroup buildIngredientGroup (){
+        return null;
+    }
+
     // return the arraylist of ingredient groups of the type passed in through the parameter
     // single-select or multi-select
     public ArrayList<IngredientGroup> returnIngredientGroup(String type)  {
