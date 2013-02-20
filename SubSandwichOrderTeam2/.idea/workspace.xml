@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88a42345-6bf3-4960-9d1f-3a48dae54e15" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/team2/sandwichorder/IngredientGroup.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/team2/sandwichorder/IngredientGroupDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/team2/sandwichorder/IngredientGroupTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/team2/sandwichorder/ProcessXMLFileData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/junit-4.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/team2/sandwichorder/0_IngredientGroupTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/90.308-Team2-Project.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/team2/sandwichorder/IngredientGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/team2/sandwichorder/IngredientGroupDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/team2/sandwichorder/IngredientGroupTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ingredients.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/Main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/java/team2/sandwichorder/ProcessXMLFileData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/TEST-team2.sandwichorder.IngredientGroupTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/TESTS-TestSuites.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/all-tests.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/alltests-errors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/alltests-fails.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/team2/sandwichorder/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/team2/sandwichorder/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/report/html/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../90.308" afterPath="$PROJECT_DIR$/../90.308" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SubSandwichOrderTeam2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +19,7 @@
     <file path="/IngredientGroupTest.java" changelist="88a42345-6bf3-4960-9d1f-3a48dae54e15" time="1361238683192" ignored="false" />
     <file path="/ProcessXMLFileData.java" changelist="88a42345-6bf3-4960-9d1f-3a48dae54e15" time="1361238315370" ignored="false" />
     <file path="/IngredientGroupDAO.java" changelist="88a42345-6bf3-4960-9d1f-3a48dae54e15" time="1361241174634" ignored="false" />
-    <file path="/Dummy.txt" changelist="88a42345-6bf3-4960-9d1f-3a48dae54e15" time="1361244352412" ignored="false" />
+    <file path="/Dummy.txt" changelist="88a42345-6bf3-4960-9d1f-3a48dae54e15" time="1361320311918" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +95,7 @@
       <file leaf-file-name="IngredientGroupDAO.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/java/team2/sandwichorder/IngredientGroupDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="32" selection-start="1678" selection-end="1678" vertical-scroll-proportion="1.930131">
+            <state line="52" column="32" selection-start="1678" selection-end="1678" vertical-scroll-proportion="1.9385965">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,9 +180,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Tests" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,6 +221,9 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests" />
       </pane>
     </panes>
   </component>
@@ -439,16 +402,16 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967742" sideWeight="0.67128986" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967742" sideWeight="0.6703755" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.4980695" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.497426" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26903227" sideWeight="0.67128986" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26903227" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -599,7 +562,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/java/team2/sandwichorder/IngredientGroupDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="32" selection-start="1678" selection-end="1678" vertical-scroll-proportion="1.930131">
+        <state line="52" column="32" selection-start="1678" selection-end="1678" vertical-scroll-proportion="1.9385965">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
